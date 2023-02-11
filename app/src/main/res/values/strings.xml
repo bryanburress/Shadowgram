@@ -1,5 +1,5 @@
 <resources>
-	<string name="app_name">Rattlegram</string>
+	<string name="app_name">Shadowgram</string>
 	<string name="decoder_settings">Decoder Settings</string>
 	<string name="encoder_settings">Encoder Settings</string>
 	<string name="sample_rate">Sample Rate</string>
@@ -85,13 +85,13 @@
 	<string name="decoding_failed">Decoding failed</string>
 	<string name="payload_unknown">Payload unknown</string>
 	<string name="privacy_policy">Privacy Policy</string>
-	<string name="privacy_policy_text">To be able to decode COFDMTV encoded text messages, Rattlegram needs access to the microphone.
-Having access to the microphone is considered to be a sensitive permission and you have the right to know what Rattlegram does with that access:
+	<string name="privacy_policy_text">To be able to decode COFDMTV encoded text messages, Shadowgram needs access to the microphone.
+Having access to the microphone is considered to be a sensitive permission and you have the right to know what Shadowgram does with that access:
 The data recorded from the microphone is only used to feed the COFDMTV decoder and spectrum analyzer for the visualization of its frequency content.
-Rattlegram uses a very small temporary buffer in volatile memory and constantly overwrites that buffer with new data from the microphone.
+Shadowgram uses a very small temporary buffer in volatile memory and constantly overwrites that buffer with new data from the microphone.
 The resulting text message from the COFDMTV decoder is the only data that gets stored in persistent storage on your device.</string>
-	<string name="about">About Rattlegram</string>
-	<string name="about_text">Rattlegram %1$s\nCopyright 2022 aicodix GmbH
+	<string name="about">About Shadowgram</string>
+	<string name="about_text">Shadowgram %1$s\nCopyright 2022 aicodix GmbH
 \n\nPlease read WARNING and DISCLAIMER at the bottom of this page.
 \n\nRattlegram transmits short text messages as COFDMTV encoded audio and is based on open-source software:
 \n\nOFDM modem implementation and specification:\nhttps://github.com/aicodix/modem\nBSD Zero Clause License
